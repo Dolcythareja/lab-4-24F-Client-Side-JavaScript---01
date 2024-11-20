@@ -29,4 +29,13 @@
       "ingredients": ["strawberry purée", "yogurt base", "rainbow sprinkles"],
       "image": "strawberry-sprinkle.svg"
     },
+{
+      "name": "Cotton Candy",
+      "calories": 345,
+      "type": "gelato", 
+      "ingredients": ["cotton candy flavoring", "cream base", "sugar pearls"],
+      "image": "ice-cream-xtra1.svg"
+    }
+  ]
+}
     
